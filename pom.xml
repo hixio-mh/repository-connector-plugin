@@ -5,7 +5,7 @@
     <groupId>org.jenkins-ci.plugins</groupId>
     <artifactId>plugin</artifactId>
     <version>4.3</version>
-    <relativePath />
+    <relativePath/>
   </parent>
 
   <artifactId>repository-connector</artifactId>
@@ -21,7 +21,7 @@
     <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
 
     <maven.version>3.6.3</maven.version>
-    <maven-resolver.version>1.4.2</maven-resolver.version>
+    <maven-resolver.version>1.6.1</maven-resolver.version>
 
     <casc-plugin.version>1.43</casc-plugin.version>
     <credentials-plugin.version>2.3.13</credentials-plugin.version>
